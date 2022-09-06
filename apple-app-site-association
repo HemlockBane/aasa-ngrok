@@ -1,0 +1,18 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "WT88R5J84U.com.moniepoint.business", 
+          "SR6P5HNPK5.com.moniepoint.business"
+        ],
+        "components": [
+          {
+            "/": "/mobile-web-view/change-password/",
+            "comment": "Matches any url with path change password"
+          }
+        ]
+      }
+    ]
+  }
+}

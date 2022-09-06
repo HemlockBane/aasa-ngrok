@@ -1,0 +1,12 @@
+{
+  "name": "UniversalLinkTest",
+  "version": "1.0.0",
+  "description": "test uni link",
+  "main": "index.js",
+  "author": "Me",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
